@@ -19,7 +19,7 @@ A restless soul, who loves travelling, cooking, working on problems with relevan
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/shubhankar-raj/) 
-- [towardsdatascience](https://medium.com/@raj.shubhankar)
+- [Medium](https://medium.com/@raj.shubhankar)
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
