@@ -28,7 +28,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
   <img src="https://profile-counter.glitch.me/ShubhankarRaj/count.svg" />
 </p>
 
-<!-- Copy and Paste Me -->
+<!-- Copy and Paste Me 
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
   <iframe
     src="https://glitch.com/embed/#!/embed/modelviewer-tester?path=0.10.0.html&previewSize=100"
@@ -38,7 +38,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
     style="height: 100%; width: 100%; border: 0;">
   </iframe>
 </div>
-
+-->
 ***
 
 
