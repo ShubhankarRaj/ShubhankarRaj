@@ -30,7 +30,7 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 <!-- Copy and Paste Me -->
 <div class="glitch-embed-wrap" style="height: 220px; width: 100%;">
   <iframe
-    src="https://glitch.com/embed/#!/embed/koi-garden?path=README.md&previewSize=100"
+    src="https://glitch.com/embed/#!/embed/koi-garden?path=README.md&previewSize=90"
     title="koi-garden on Glitch"
     allow="geolocation; microphone; camera; midi; encrypted-media; xr-spatial-tracking; fullscreen"
     allowFullScreen
