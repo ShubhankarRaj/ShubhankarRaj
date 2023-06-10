@@ -27,17 +27,15 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/ShubhankarRaj/count.svg" />
 </p>
-<!-- Copy and Paste Me -->
-<div class="glitch-embed-wrap" style="height: 220px; width: 100%;">
+
+<div class="glitch-embed-wrap" style="height: 486px; width: 100%;">
   <iframe
-    src="https://glitch.com/embed/#!/embed/koi-garden?path=README.md&previewSize=90"
-    title="koi-garden on Glitch"
-    allow="geolocation; microphone; camera; midi; encrypted-media; xr-spatial-tracking; fullscreen"
-    allowFullScreen
-    style="height: 90%; width: 90%; border: 0;">
+    allow="geolocation; microphone; camera; midi; encrypted-media"
+    src="https://glitch.com/embed/#!/embed/koi-garden?previewSize=100&previewFirst=true&sidebarCollapsed=true"
+    alt="koi-garden on Glitch"
+    style="height: 100%; width: 100%; border: 0;">
   </iframe>
 </div>
-
 
 https://medium.com/@raj.shubhankar
 ***
